@@ -1,0 +1,60 @@
+#social-media
+{
+    background: #f8f9fa;
+    padding: 100px 0px;
+}
+
+#social-media p
+{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.social-icons
+{
+    display: flex;
+    column-gap: 30px;
+    margin-left: 420px;
+}
+
+#footer
+{
+    background: linear-gradient(to right,#439bde,#439bde);
+    color: #fff;
+    height: 350px;
+}
+
+.footer-img
+{
+    width: 100%;
+    transform: rotate(180deg);
+
+}
+
+.footer-box .form-control
+{
+    box-shadow: none!important;
+    border: none;
+    border-radius: 5px;
+    margin-top: 25px;
+    max-width: 250px;
+
+}
+
+hr
+{
+    background-color: #fff;
+}
+
+.copyright
+{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+}
+
+p {
+    margin-top: 15px;
+    margin-bottom: paragraph-margin-bottom;
+  }
+  

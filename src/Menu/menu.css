@@ -1,0 +1,30 @@
+.navbare
+{
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+    background-image: linear-gradient(to right,#439bde,#439bde);
+    margin-top: -27px;
+}
+
+.searchbtn:hover
+{
+    background-color: #a517ba;
+}
+
+.searchbtn
+{
+    color: white;
+    border-color: white;
+}
+
+.logo-img
+{
+    padding-left: 20px;
+    height: 52px;
+}
+
+#navoptions
+{
+    font-weight: 700px;
+}

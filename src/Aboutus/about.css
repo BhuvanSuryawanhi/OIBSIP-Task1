@@ -1,0 +1,23 @@
+#About-us
+{
+    background: #ffffff;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.about-title
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 3%;
+}
+
+#About-us ul li
+{
+    margin: 10px 0px;
+}
+
+#About-us ul
+{
+    margin-left: 102px;
+}
